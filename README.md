@@ -4,18 +4,23 @@
 </a>
 
 ## Objective
-A classic Snake game developed using Python, featuring intuitive gameplay where players control a growing snake to eat food and avoid obstacles. Designed to showcase Python’s capabilities in game development and offer a nostalgic gaming experience.
+A classic Snake Game implemented in Python using tkinter. Navigate the snake to eat food and avoid collisions with walls and itself. Features include:
+- Two Difficulty Levels: Normal and Fast speed.
+- High Score Tracking: Saves and loads the high score across sessions.
+- Simple Controls: Arrow keys to move the snake.
+- Visuals: Includes walls and corner walls in light blue, and food in red.
+- Use this project to play a fun game and explore basic game development with Python.
 
 
 ### Skills Learned
 
-- Game Development Fundamentals: Understanding basic game mechanics and principles.
-- Python Programming: Enhancing proficiency in Python for game logic and functionality.
-- Graphics and UI Design: Using libraries like Pygame to create and manage game visuals.
-- Algorithm Design: Implementing algorithms for movement, collision detection, and scoring.
-- Event Handling: Managing keyboard inputs and game events effectively.
-- Debugging and Testing: Identifying and fixing bugs, and testing game performance.
-- Project Management: Planning and executing a complete software development project.
+- Game Development: Implemented core game mechanics and features.
+- Python Programming: Used tkinter for GUI and game logic.
+- Graphics Design: Created game visuals with tkinter canvas.
+- Algorithm Design: Developed movement and collision detection algorithms.
+- Event Handling: Managed keyboard inputs and game events.
+- File Handling: Persisted high scores across sessions.
+- Project Management: Executed and managed a complete game project.
 
 ### Tools Used
 <!-- Python Badge -->
@@ -32,10 +37,12 @@ A classic Snake game developed using Python, featuring intuitive gameplay where 
 - Visual Studio Code
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
-Every screenshot should have some text explaining what the screenshot is about.
+*Ref 1: Level selection*
+<img width="960" alt="Screenshot 2024-09-18 015220" src="https://github.com/user-attachments/assets/1786223f-e989-4ebd-b239-1ca897d447a2">
 
-Example below.
+*Ref 1: Game Interface*
+<img width="960" alt="Screenshot 2024-09-18 015247" src="https://github.com/user-attachments/assets/591780b0-dd1a-499f-aa9b-5e70f479cb5e">
 
-*Ref 1: Network Diagram*
+*Ref 1: Results*
+<img width="960" alt="Screenshot 2024-09-18 015252" src="https://github.com/user-attachments/assets/e458bb6c-c6bb-4b5c-b9fe-4fe0b3634adb">
