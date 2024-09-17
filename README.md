@@ -46,3 +46,6 @@ A classic Snake Game implemented in Python using tkinter. Navigate the snake to 
 
 *Ref 1: Results*
 <img width="960" alt="Screenshot 2024-09-18 015252" src="https://github.com/user-attachments/assets/e458bb6c-c6bb-4b5c-b9fe-4fe0b3634adb">
+
+## Conclusion
+This project enhanced my skills in game development with Python and tkinter, providing practical experience in building and managing game mechanics. It demonstrates effective use of graphics, event handling, and file operations in a complete software project.
