@@ -1,5 +1,5 @@
 # PYTHON SNAKE PROJECT
-<a href="https://github.com/yourusername/your-repo" target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/Saif-Jillani/Python-Snake-Project" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Snake_Game-Python-yellowgreen?style=for-the-badge&logo=python&logoColor=white" alt="Snake Game" />
 </a>
 
