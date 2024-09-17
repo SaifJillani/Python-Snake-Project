@@ -18,6 +18,16 @@ A classic Snake game developed using Python, featuring intuitive gameplay where 
 - Project Management: Planning and executing a complete software development project.
 
 ### Tools Used
+<!-- Python Badge -->
+<a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Python-Programming_Language-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</a>
+
+<!-- Visual Studio Code Badge -->
+<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-Editor-blueviolet?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+</a>
+
 - Python
 - Visual Studio Code
 
